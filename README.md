@@ -1,5 +1,7 @@
-## Hi there 👋
+Certified Semi Pro
 
+ - I'm currently working on a lot
+ - Personal, half baked projects. 
 <!--
 **chuckenglehart/chuckenglehart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
